@@ -29,7 +29,7 @@ body {
 
 .sidebar {
   grid-column: 1 / 2;
-  grid-row: 2 / 4; /* Span the sidebar across rows 2 and 3 */
+  grid-row: 2 / 4;
   background-color: darkorange;
   display: flex;
   justify-content: center;
