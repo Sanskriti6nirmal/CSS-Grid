@@ -10,7 +10,7 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template-rows: 100px 0.7fr 200px;
+  grid-template-rows: 70px 0.7fr 200px;
   grid-template-columns: 200px 1fr 1fr;
   gap: 10px;
   width: 90%;
@@ -24,6 +24,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 5px;
 }
 
 .sidebar {
